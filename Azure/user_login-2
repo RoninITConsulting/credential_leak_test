@@ -1,0 +1,1 @@
+az login -u jane@contoso.com -p Myf@k3creds 

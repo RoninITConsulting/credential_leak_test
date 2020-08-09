@@ -1,0 +1,13 @@
+{
+  "environmentName": "AzureCloud",
+  "id": "15dbcfa8-4b93-4c9a-881c-6189d39f04d4",
+  "isDefault": true,
+  "name": "my-subscription",
+  "state": "Enabled",
+  "tenantId": "43413cc1-5886-4711-9804-8cfea3d1c3ee",
+  "user": {
+    "cloudShellID": true,
+    "name": "jane@contoso.com",
+    "type": "user"
+  }
+}

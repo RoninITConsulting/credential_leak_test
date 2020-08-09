@@ -1,0 +1,5 @@
+$s3Client = new S3Client([
+    'version'     => 'latest',
+    'region'      => 'us-west-2',
+    'credentials' => false
+]);

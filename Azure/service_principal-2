@@ -1,0 +1,1 @@
+az login --service-principal -u b52dd125-9272-4b21-9862-0be667bdf6dc --password ebc6e170-72b2-4b6f-9de2-99410964d2d0 --tenant 72f988bf-86f1-41af-91ab-2d7cd011db47 --allow-no-subscriptions
